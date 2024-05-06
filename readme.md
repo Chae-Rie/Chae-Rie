@@ -17,10 +17,10 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/michell-teuber-b86129180/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="michell"/>
  </a>
  <a href="https://instagram.com/sjmemohannah" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="michell" />
  </a> 
 </p>
 <br />
@@ -29,7 +29,6 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; I like to learn new things and connect with new peoples <br/><br/>
  ❤️ &emsp; I love coding and the struggle while extending my knowledge <br/><br/>
