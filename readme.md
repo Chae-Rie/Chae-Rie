@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Michell Teuber</a></b>
+        <samp>&gt; Heja, I am Michell Teuber</a></b>
         </samp>
 </h3>
 
